@@ -1,7 +1,7 @@
 # Andrew Flanagan
 ## Software Engineer
 
-> I'm an engineer with a passion for functional solutions to complicated problems. Rather than seeing software as its own goal, I see it as one of multiple possible tools to help us create useful systems, solve problems, and better manage and abstract the complexities of our world in ways that allow us to be more human. Software shouldn't get in our way, it should empower us to do and achieve more than we thought possible. The software that I believe is the best is that which works so smoothly and intuitively that we barely notice it exists.
+> I'm a software engineering manager with a passion for developing and leading my team to develop functional solutions to complicated problems. Rather than seeing software as its own goal, I see it as one of multiple possible tools to help us create useful systems, solve problems, and better manage and abstract the complexities of our world in ways that allow us to be more human. Software shouldn't get in our way, it should empower us to do and achieve more than we thought possible. The software that I believe is the best is that which works so smoothly and intuitively that we barely notice it exists. As a team, we work best when we communicate, focus, collaborate, and have the freedom to innovate and explore by leveraging our curiousity.
 
 ### Education & Affiliations
 
@@ -11,8 +11,17 @@
 
 ### Professional Experience
 
+#### Software Engineering Manager
+##### Leidos Corporation, Lynnwood, WA August 2022 - Present
+* Lead a team of 10+ software engineers in the development of autonomous underwater software solutions
+* Mentor, teach, develop, grow, and encourage members of a geographically distributed team
+* Establish light-weight processes to ensure consistency, quality, and collaboration without burdening the team with red tape
+* Build relationships with team members, peers, management, partners, and customers to explore new solutions
+* Responsible for leading 10+ software projects with a total value of $100M+
+* Currently architecting and leading an internal Autonomous Software Framework development effort for underwater vehicles
+  
 #### Senior Software Engineer
-##### Leidos Corporation, Lynnwood, WA March 2016 - Present
+##### Leidos Corporation, Lynnwood, WA March 2016 - August 2022
  
 * Developed autonomous underwater solutions using a MOSA-compliant architecture.
 * Assisted in the development of requirements, feature plans, detailed designs.
