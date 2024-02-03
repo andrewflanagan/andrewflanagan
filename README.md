@@ -1,5 +1,5 @@
 # Andrew Flanagan
-## Software Engineer
+## Software Engineering Manager
 
 > I'm a software engineering manager with a passion for developing and leading my team to develop functional solutions to complicated problems. Rather than seeing software as its own goal, I see it as one of multiple possible tools to help us create useful systems, solve problems, and better manage and abstract the complexities of our world in ways that allow us to be more human. Software shouldn't get in our way, it should empower us to do and achieve more than we thought possible. The software that I believe is the best is that which works so smoothly and intuitively that we barely notice it exists. As a team, we work best when we communicate, focus, collaborate, and have the freedom to innovate and explore by leveraging our curiousity.
 
